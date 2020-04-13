@@ -12,7 +12,7 @@
   background-color: #D1C4E9;
   margin: 0px auto;
   padding: 20px 0px; }
-
+   
 .jumbotron {
   margin: 0px auto;
   padding: 70px 30px;
@@ -30,7 +30,8 @@ body {
 
 .navbar-dark {
   background-color: #512DA8;
-  color:floralwhite; }
+  color: floralwhite;
+}
 
 .tab-content {
   border-left: 1px solid #ddd;
@@ -53,12 +54,3 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
-
-.modal-header {
-  background: #512DA8;
-  color: floralwhite; }
-  .modal-header .close {
-    color: floralwhite; }
-
-.modal-body {
-  background: #D1C4E9; }
