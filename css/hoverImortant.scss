@@ -1,0 +1,17 @@
+
+        .modal-header{
+            background: $background-dark;
+            color: floralwhite;
+
+
+            .close{
+                color: floralwhite;
+                &:hover {
+                    color: $background-pale !important;
+                  }
+            }
+        }
+        .modal-body {
+            background-color: $background-pale;
+          }
+
